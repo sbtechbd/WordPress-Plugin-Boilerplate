@@ -63,5 +63,5 @@ If you’re interested in writing any documentation or creating tutorials please
 
 # Credits
 
-The WordPress Plugin Boilerplate was started in 2011 by [Subrata Debnath](https://github.com/subrata6630) and has since included a number of great contributions. 
+The WordPress Plugin Boilerplate was started in 2024 by [Subrata Debnath](https://github.com/subrata6630) and has since included several great contributions. 
 We saw an opportunity here to continue a great project and develop it further, also with great ideas for the community itself.
